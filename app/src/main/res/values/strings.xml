@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Language Change</string>
+    <string name="hello">Hello</string>
+
+
+    <string-array name="appSettingsLanguageListArray">
+        <item>English</item>
+        <item>Bangla</item>
+    </string-array>
+
+    <string-array name="appSettingsLanguageListValues">
+        <item>English</item>
+        <item>Bangla</item>
+    </string-array>
+</resources>
